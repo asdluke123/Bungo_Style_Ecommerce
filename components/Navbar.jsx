@@ -9,7 +9,7 @@ const Navbar = () => {
   const { showCart, setShowCart, totalQuantities } = useStateContext();
   return (
     <div className="navbar-container">
-      <p>
+      <p className="logo">
         <Link href="/">Style Bungolo</Link>
       </p>
 
