@@ -10,7 +10,7 @@ const Navbar = () => {
   return (
     <div className="navbar-container">
       <h5 className="logo">
-        <Link href="/">Style Bungolo</Link>
+        <Link href="/">Style Bungalo</Link>
       </h5>
 
       <button type="button" className="cart-icon" onClick={()=> setShowCart(true)}>
