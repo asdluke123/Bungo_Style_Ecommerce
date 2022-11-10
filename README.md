@@ -15,7 +15,7 @@
 ### Css
 ### Javascript
 ***
-### View the deployed at here [Style Bungalo](https://bungo-style-ecommerce-mbtq-7q0zzg81w-asdluke123.vercel.app/).
+### View the deployed at here [Style Bungalo](https://bungo-style-ecommerce-mbtq-qmldikiel-asdluke123.vercel.app/).
 
 
 
