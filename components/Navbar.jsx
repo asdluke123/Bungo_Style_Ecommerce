@@ -9,9 +9,9 @@ const Navbar = () => {
   const { showCart, setShowCart, totalQuantities } = useStateContext();
   return (
     <div className="navbar-container">
-      <p className="logo">
+      <h5 className="logo">
         <Link href="/">Style Bungolo</Link>
-      </p>
+      </h5>
 
       <button type="button" className="cart-icon" onClick={()=> setShowCart(true)}>
         <AiOutlineShopping />
