@@ -51,7 +51,6 @@ export const StateContext = ({ children }) => {
     let newCartItems = [...cartItems];
     newCartItems.splice(index, 1);
     setCartItems(newCartItems);
-
   };
   const toggleCartItemQuanitiy = (id, value) => {
     foundProduct = cartItems.find((item) => item._id === id);
